@@ -1,0 +1,2125 @@
+[
+  {
+    "id": "6a2c0f87-a489-4572-9c00-2babcdb3c516",
+    "x": 944.93,
+    "y": 671.43,
+    "z": 5386,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "a28a08f6-48d4-42ab-93b0-ac9d4a55e782",
+    "type": "card",
+    "cardType": "type-1008a848-0296-492f-9e6e-8ba8603e1378",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7258,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "6039c371-ee73-4b6a-8f2c-baa78e3679ec",
+    "type": "card",
+    "cardType": "type-102df4d7-c7af-46fd-ae35-3bee3db972e5",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7305,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "d15bcf58-4428-4eb8-889e-f490a2eebce6",
+    "type": "card",
+    "cardType": "type-1008a848-0296-492f-9e6e-8ba8603e1378",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7320,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "7bc8b181-054f-4d8d-b43f-47306962c67b",
+    "type": "card",
+    "cardType": "type-1008a848-0296-492f-9e6e-8ba8603e1378",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7278,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "type": "cardDeck",
+    "backTemplate": {
+      "includeBorder": false,
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 140,
+          "valueType": "static",
+          "value": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-front.png"
+        }
+      ]
+    },
+    "faceTemplate": {
+      "includeBorder": false,
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 140,
+          "valueType": "dynamic",
+          "value": "treasure-card"
+        }
+      ]
+    },
+    "onRemoveFromHand": null,
+    "id": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "z": 4269,
+    "x": 256.44,
+    "cardOverlapH": 0,
+    "enlarge": true,
+    "snapAngles": [
+      0
+    ],
+    "cardWidth": 100,
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "cardHeight": 140,
+    "y": 150.25,
+    "cardTypes": {
+      "type-9acff86f-1d93-49be-8124-4fd4e3476541": {
+        "treasure-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-cup.png"
+      },
+      "type-2bd0b5f6-4da1-43c0-93d0-f141b7ba2252": {
+        "treasure-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-fire.png"
+      },
+      "type-1008a848-0296-492f-9e6e-8ba8603e1378": {
+        "treasure-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-globe.png"
+      },
+      "type-5fe898b2-3699-46df-87a4-d2ba0e79908d": {
+        "treasure-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-griffin.png"
+      },
+      "type-732c9e8d-4f70-41b8-9285-7803ba33975a": {
+        "treasure-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-helicopter-lift.png"
+      },
+      "type-d526b99b-7f0d-4a23-86c7-15526badd20f": {
+        "treasure-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-sandbags.png"
+      },
+      "type-8e6d7946-135c-4dc7-a9c1-b0b3434ac9d8": {
+        "treasure-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/treasure-cards/treasure-waters-rise.png"
+      }
+    },
+    "confirmRecall": true,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "c3522195-073f-420b-9a1f-f124f50c9437",
+    "type": "card",
+    "cardType": "type-9acff86f-1d93-49be-8124-4fd4e3476541",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7270,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "7f3a57a6-c852-447d-8fac-6dbe89364944",
+    "type": "card",
+    "cardType": "type-a026a68c-7a6f-4670-88f3-e56865a7464d",
+    "deck": "09c9383f-9c89-4dab-adc9-21f7a678d415",
+    "parent": "ba833600-22d8-45ad-93b4-e33774d94bd6",
+    "x": 634.17,
+    "y": 827.04,
+    "z": 7357,
+    "dragging": null
+  },
+  {
+    "id": "f6243f1f-7954-419b-bd3d-d2bb18eec124",
+    "type": "card",
+    "cardType": "type-d526b99b-7f0d-4a23-86c7-15526badd20f",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7257,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "f3f6b775-a42c-4699-b635-266d7e8d4256",
+    "type": "card",
+    "cardType": "type-263a5a22-f9de-48fa-bc24-1a2c55b0bc74",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7254,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "73f41235-de29-4d9c-8969-c89473d4e14f",
+    "type": "card",
+    "cardType": "type-872049f2-2d16-4788-8bad-263e7d4c25d4",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "8601f6ca-a17a-460d-8f4a-16f24a883197",
+    "x": 1430.95,
+    "y": 509.52,
+    "z": 7348,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "f0032122-93a0-43e2-9b15-0f3e75dead44",
+    "type": "card",
+    "cardType": "type-c217443d-fa5c-41cb-b6d7-92e282f396d9",
+    "deck": "09c9383f-9c89-4dab-adc9-21f7a678d415",
+    "parent": "f00e74ca-d866-4380-b465-e49b860b14f5",
+    "x": 1464.42,
+    "y": 36.11,
+    "z": 7356,
+    "dragging": null,
+    "draggingType": null,
+    "faceup": false
+  },
+  {
+    "id": "9c5f8b11-51e8-499b-932e-6282940adadc",
+    "type": "card",
+    "cardType": "type-84296986-81d0-463a-9c44-f5f401c929fd",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "6a2c0f87-a489-4572-9c00-2babcdb3c516",
+    "x": 948.93,
+    "y": 675.43,
+    "z": 7353,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "b3f9cb0f-bf94-43cd-88da-5011bd85331a",
+    "type": "card",
+    "cardType": "type-8e6d7946-135c-4dc7-a9c1-b0b3434ac9d8",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7255,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "ec02d1e1-b1e0-4c7b-9446-d38e6aa6fb23",
+    "type": "card",
+    "cardType": "type-76cdd27c-a2bf-4fe4-b58b-3d1c9124f01b",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "337e978f-e2cc-40a0-a2c8-039cf267994d",
+    "x": 786.34,
+    "y": 515.94,
+    "z": 7350,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "backTemplate": {
+      "includeBorder": "heavy",
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 140,
+          "valueType": "dynamic",
+          "value": "role"
+        }
+      ]
+    },
+    "type": "cardDeck",
+    "faceTemplate": {
+      "includeBorder": "heavy",
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 140,
+          "color": "white",
+          "valueType": "dynamic",
+          "value": "role"
+        }
+      ]
+    },
+    "id": "09c9383f-9c89-4dab-adc9-21f7a678d415",
+    "z": 4825,
+    "x": 179.66,
+    "cardOverlapH": 0,
+    "enlarge": true,
+    "cardWidth": 100,
+    "parent": "43fe2220-8836-4cd7-bbd8-afa5bc0629b6",
+    "cardHeight": 140,
+    "y": -75,
+    "cardTypes": {
+      "type-d75dfe5d-fd1d-4715-b0d0-eb2bfe0ac491": {
+        "role": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/role-cards/role-pilot.png"
+      },
+      "type-5ae21ff4-b1c9-4825-ba71-664b98f83ccd": {
+        "role": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/role-cards/role-diver.png"
+      },
+      "type-832d316d-89de-4582-ba83-a514b9f7ec67": {
+        "role": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/role-cards/role-engineer.png"
+      },
+      "type-a026a68c-7a6f-4670-88f3-e56865a7464d": {
+        "role": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/role-cards/role-navigator.png"
+      },
+      "type-6e410a2a-954a-45f2-a57f-1f1b45a734f6": {
+        "role": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/role-cards/role-messenger.png"
+      },
+      "type-c217443d-fa5c-41cb-b6d7-92e282f396d9": {
+        "role": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/role-cards/role-explorer.png"
+      }
+    },
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "7f4ae4d4-15a9-4aac-a6b4-17838073a10e",
+    "type": "card",
+    "cardType": "type-061ec5e9-5ef5-4a9d-b1d9-9e85cbb0e556",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7303,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "a90b57fc-9c56-4a7f-afed-54ce111ab33f",
+    "type": "card",
+    "cardType": "type-042c3db0-3c10-474e-aa62-8ca70d513a2a",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7296,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "8bbe9cb6-f08a-4788-8de4-5fbf86a6ef66",
+    "type": "card",
+    "cardType": "type-7914456d-b63e-4b26-9bac-65c442c0c48e",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7259,
+    "owner": null,
+    "faceup": false,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "75c44f9b-2efe-4a6c-9555-48334ce8f8fb",
+    "type": "card",
+    "cardType": "type-9acff86f-1d93-49be-8124-4fd4e3476541",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7286,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "b9146f34-768a-4bf9-802e-9e4565158257",
+    "x": 78.69,
+    "y": 819.98,
+    "z": 4494,
+    "type": "gamePiece",
+    "pieceType": "classic",
+    "color": "yellow",
+    "dragging": null
+  },
+  {
+    "id": "3aa69722-5fb8-469f-b2c2-363652b7646d",
+    "type": "card",
+    "cardType": "type-977a5f71-ec60-418e-a82a-bf00ccd3ea93",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "c8a4295d-ed6c-4564-9ca0-b68af911e678",
+    "x": 949.31,
+    "y": 517.88,
+    "z": 7349,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "9d5c29d3-d629-46cd-9b6a-f808df3cf569",
+    "type": "card",
+    "cardType": "type-dfeabe97-0e11-4a43-8d49-a747c277f1b8",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7271,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "e55b78fe-19d1-432e-afee-d01d845f9095",
+    "type": "card",
+    "cardType": "type-9acff86f-1d93-49be-8124-4fd4e3476541",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7304,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "cc797236-1957-4dc2-b5b7-748c6ca6d61a",
+    "type": "card",
+    "cardType": "type-0ab22278-1c99-4184-a05a-64fd10f48bf0",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "5d8b9f2a-0ec5-455f-bac5-4617ece8235f",
+    "x": 947.95,
+    "y": 194.47,
+    "z": 7334,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "953bd272-d534-4cc6-8f39-b3df67dd4a7f",
+    "type": "card",
+    "cardType": "type-5e0c6878-7f8e-461f-819c-a756f07e21d8",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "ef2c008d-2bed-4831-b66b-7ce07be981ef",
+    "x": 1113.83,
+    "y": 27.3,
+    "z": 7331,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 245.7,
+    "y": 502.22,
+    "z": 5416,
+    "type": "cardPile",
+    "label": "Flood Deck",
+    "width": 108,
+    "height": 148,
+    "hasShuffleButton": false,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "ae477a1d-a499-4a26-9e00-cdf98782c698",
+    "type": "card",
+    "cardType": "type-732c9e8d-4f70-41b8-9285-7803ba33975a",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7290,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "8500e078-5c91-4eaa-8020-5132c55bc19f",
+    "type": "card",
+    "cardType": "type-ac6c46b0-319b-4ecd-a1bd-5eeb5309c25a",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "368269c8-b1b2-456a-9537-5737a78961c4",
+    "x": 786.06,
+    "y": 675.78,
+    "z": 7362,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "43fe2220-8836-4cd7-bbd8-afa5bc0629b6",
+    "x": 168.66,
+    "y": -106,
+    "z": 4458,
+    "type": "cardPile",
+    "width": 108,
+    "height": 148,
+    "hideStackTab": true,
+    "dragging": null
+  },
+  {
+    "id": "f00e74ca-d866-4380-b465-e49b860b14f5",
+    "x": 1460.42,
+    "y": 32.11,
+    "z": 5428,
+    "type": "cardPile",
+    "width": 108,
+    "height": 148,
+    "linkedSeat": null,
+    "allowPlayerEditLabel": true,
+    "label": "Player 2",
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "4afdb4d4-daa7-442a-b2dd-823fea954e64",
+    "type": "card",
+    "cardType": "type-5fe898b2-3699-46df-87a4-d2ba0e79908d",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7267,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "a7ce00af-2502-44d4-bdb8-7a26a8a1ae9c",
+    "type": "card",
+    "cardType": "type-e86935f0-db78-468e-acbc-a38dd82922c1",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "6f1f96c8-79bb-4f04-b95e-4b70d657e47d",
+    "x": 1110.51,
+    "y": 836.44,
+    "z": 7354,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "ef2c008d-2bed-4831-b66b-7ce07be981ef",
+    "x": 1109.83,
+    "y": 23.3,
+    "z": 5381,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "6f1f96c8-79bb-4f04-b95e-4b70d657e47d",
+    "x": 1106.51,
+    "y": 832.44,
+    "z": 4053,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null
+  },
+  {
+    "id": "56918663-b3c1-45f3-8240-b04e68f0def9",
+    "type": "card",
+    "cardType": "type-5fe898b2-3699-46df-87a4-d2ba0e79908d",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7274,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "e534f2fc-9ed7-441b-8043-16853f5a2478",
+    "type": "card",
+    "cardType": "type-6e410a2a-954a-45f2-a57f-1f1b45a734f6",
+    "deck": "09c9383f-9c89-4dab-adc9-21f7a678d415",
+    "parent": "1f20ec3a-413f-46f8-b6ea-540654bd0d93",
+    "x": 642.53,
+    "y": 36.37,
+    "z": 7355,
+    "dragging": null
+  },
+  {
+    "id": "63c5deac-3c05-43e1-a4e6-84604ca47e6c",
+    "x": 371.78,
+    "y": 22.49,
+    "z": 4532,
+    "type": "gamePiece",
+    "pieceType": "pin",
+    "color": "red",
+    "dragging": null
+  },
+  {
+    "id": "e01da7a7-edc0-47b4-b5ff-f43ca54ea286",
+    "x": 1105.88,
+    "y": 352.41,
+    "z": 5376,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "ba833600-22d8-45ad-93b4-e33774d94bd6",
+    "x": 630.17,
+    "y": 823.04,
+    "z": 5430,
+    "type": "cardPile",
+    "width": 108,
+    "height": 148,
+    "linkedSeat": null,
+    "allowPlayerEditLabel": true,
+    "label": "Player 3",
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 245.44,
+    "y": 119.25,
+    "z": 5418,
+    "type": "cardPile",
+    "label": "Treasure Deck",
+    "width": 108,
+    "height": 148,
+    "hasShuffleButton": false,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "8601f6ca-a17a-460d-8f4a-16f24a883197",
+    "x": 1426.95,
+    "y": 505.52,
+    "z": 4079,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null
+  },
+  {
+    "id": "c565a17c-2fcb-47e9-a625-91be7a202958",
+    "x": 1105.8,
+    "y": 670.09,
+    "z": 5379,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "b8d2034d-dd1f-4afe-bedd-748854290e76",
+    "type": "card",
+    "cardType": "type-3291ef51-26a3-4eff-a68c-3bf8c904350d",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7263,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "1f20ec3a-413f-46f8-b6ea-540654bd0d93",
+    "x": 638.53,
+    "y": 32.37,
+    "z": 5427,
+    "type": "cardPile",
+    "width": 108,
+    "height": 148,
+    "label": "Player 1",
+    "allowPlayerEditLabel": true,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "label": "New Game",
+    "type": "automationButton",
+    "y": 57.53,
+    "id": "2552aa54-2675-497b-8e2f-9fc6bdfc4d96",
+    "x": 104.43,
+    "z": 4824,
+    "clickRoutine": [
+      {
+        "func": "RECALL_CARDS",
+        "args": {
+          "includeHands": {
+            "type": "literal",
+            "value": "hands"
+          },
+          "decks": {
+            "type": "literal",
+            "value": [
+              "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+              "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+              "f6c29379-bf9b-4191-8d47-826fe816a471",
+              "09c9383f-9c89-4dab-adc9-21f7a678d415"
+            ]
+          }
+        }
+      },
+      {
+        "func": "SHUFFLE_CARDS",
+        "args": {
+          "holders": {
+            "type": "literal",
+            "value": [
+              "38903182-99bd-4a64-9cd0-bbb6ed7ab116",
+              "43fe2220-8836-4cd7-bbd8-afa5bc0629b6",
+              "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+              "45cbe894-f997-462f-b14e-71c80f2cb062"
+            ]
+          }
+        }
+      },
+      {
+        "func": "MOVE_CARDS_BETWEEN_HOLDERS",
+        "args": {
+          "from": {
+            "type": "literal",
+            "value": [
+              "38903182-99bd-4a64-9cd0-bbb6ed7ab116"
+            ]
+          },
+          "to": {
+            "type": "literal",
+            "value": [
+              "ef2c008d-2bed-4831-b66b-7ce07be981ef",
+              "ab730f0c-cf77-4d62-806d-64863eb64ad5",
+              "b8a30011-a4af-45fa-b52a-c1865556268a",
+              "5d8b9f2a-0ec5-455f-bac5-4617ece8235f",
+              "d62f11b7-58bc-451f-ae36-cb6040c0a14f",
+              "74cce9b6-ac15-47d7-a9f6-9948fd4315f9",
+              "368269c8-b1b2-456a-9537-5737a78961c4",
+              "61f362e4-bcb3-49df-ab9f-d00d24bbc38b",
+              "0e2be926-b505-472e-8da2-824b64c766b8",
+              "e01da7a7-edc0-47b4-b5ff-f43ca54ea286",
+              "0c87038a-87a9-454d-a1af-1deb1398686a",
+              "11248bc8-01a0-4d1c-aa00-2615ff4d5265",
+              "039580f2-d510-4d9e-b738-ccf30555b258",
+              "3489e3e5-fa87-49ad-95a1-e31aee0084ce",
+              "bec2bae8-746f-46d1-bf9e-db6ca2e3c6e0",
+              "6ffdb425-1e9c-4401-94f7-eeb3218c1a1a",
+              "87510b23-25cf-4a2f-a5f3-58401330124a",
+              "8601f6ca-a17a-460d-8f4a-16f24a883197",
+              "c8a4295d-ed6c-4564-9ca0-b68af911e678",
+              "337e978f-e2cc-40a0-a2c8-039cf267994d",
+              "c565a17c-2fcb-47e9-a625-91be7a202958",
+              "6b0dfae9-ae1a-4113-a521-1939fb44e332",
+              "6a2c0f87-a489-4572-9c00-2babcdb3c516",
+              "6f1f96c8-79bb-4f04-b95e-4b70d657e47d"
+            ]
+          },
+          "moveFlip": {
+            "type": "literal",
+            "value": "faceDown"
+          }
+        }
+      },
+      {
+        "func": "MOVE_CARDS_BETWEEN_HOLDERS",
+        "args": {
+          "from": {
+            "type": "literal",
+            "value": [
+              "43fe2220-8836-4cd7-bbd8-afa5bc0629b6"
+            ]
+          },
+          "to": {
+            "type": "literal",
+            "value": [
+              "1f20ec3a-413f-46f8-b6ea-540654bd0d93",
+              "f00e74ca-d866-4380-b465-e49b860b14f5",
+              "ba833600-22d8-45ad-93b4-e33774d94bd6",
+              "56efcd9e-b667-44e8-ad4f-07cc759995d7"
+            ]
+          }
+        }
+      }
+    ],
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "d62f11b7-58bc-451f-ae36-cb6040c0a14f",
+    "x": 1108.53,
+    "y": 189.01,
+    "z": 5375,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "8656fd82-63c4-4244-86b3-814f7fff1239",
+    "type": "card",
+    "cardType": "type-b5823ed8-90e5-4fc0-b432-7101e35cc807",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7312,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "4ff4157e-e94a-4f46-a615-b0428ed6bca5",
+    "type": "card",
+    "cardType": "type-c6789620-030b-43c4-9271-1d1243ac330f",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "6ffdb425-1e9c-4401-94f7-eeb3218c1a1a",
+    "x": 1110.15,
+    "y": 515.71,
+    "z": 7346,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "b4dc625d-25b1-4a26-91d5-9da0d774a208",
+    "type": "card",
+    "cardType": "type-2bd0b5f6-4da1-43c0-93d0-f141b7ba2252",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7319,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "5c64d4bd-8869-45fb-b785-685277c60354",
+    "type": "card",
+    "cardType": "type-522c9476-eef7-4fa1-94bd-52d5dc7a5104",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "bec2bae8-746f-46d1-bf9e-db6ca2e3c6e0",
+    "x": 785.68,
+    "y": 355.45,
+    "z": 7345,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "b68eb287-89b8-4315-9858-c1bd2ee431d2",
+    "type": "card",
+    "cardType": "type-60dc4a3f-3121-4583-a453-9c909b6d7111",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "74cce9b6-ac15-47d7-a9f6-9948fd4315f9",
+    "x": 1272.71,
+    "y": 356.28,
+    "z": 7336,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "d3ec0ad5-1f2b-492c-b818-9bdf56d48252",
+    "type": "card",
+    "cardType": "type-5fe898b2-3699-46df-87a4-d2ba0e79908d",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7302,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "fafaae9e-e2c6-4507-bf8f-9e02c299c636",
+    "type": "card",
+    "cardType": "type-5c868fda-d360-439a-8401-35af43d04721",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7315,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "ad1de2c2-7c61-4ffb-889e-20bbf8d2c2c6",
+    "x": 116.96,
+    "y": 903.04,
+    "z": 4493,
+    "type": "gamePiece",
+    "pieceType": "classic",
+    "color": "black",
+    "dragging": null
+  },
+  {
+    "label": "Reset",
+    "type": "automationButton",
+    "y": 55.67,
+    "id": "9ae7c356-43e0-4d3b-a2fe-7e207541b181",
+    "z": 4330,
+    "x": 11.33,
+    "clickRoutine": [
+      {
+        "func": "RECALL_CARDS",
+        "args": {
+          "decks": {
+            "type": "literal",
+            "value": [
+              "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+              "09c9383f-9c89-4dab-adc9-21f7a678d415",
+              "f6c29379-bf9b-4191-8d47-826fe816a471",
+              "a0c45160-3bb5-4beb-b1dc-e8063d280d03"
+            ]
+          }
+        }
+      }
+    ],
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "5b6b02ab-6074-43ea-831f-19da23a6f175",
+    "type": "card",
+    "cardType": "type-9acff86f-1d93-49be-8124-4fd4e3476541",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7314,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "dd51b858-bbcc-48bf-9943-7aa897380f8f",
+    "type": "card",
+    "cardType": "type-5fe898b2-3699-46df-87a4-d2ba0e79908d",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7251,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "3d704913-a8c3-49de-94ad-b23ccaf6b9de",
+    "type": "card",
+    "cardType": "type-e634a60c-0a7a-48ab-8860-fdfe77793a4a",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "6b0dfae9-ae1a-4113-a521-1939fb44e332",
+    "x": 1271.98,
+    "y": 193.17,
+    "z": 7352,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "11248bc8-01a0-4d1c-aa00-2615ff4d5265",
+    "x": 1425.2,
+    "y": 348.57,
+    "z": 4080,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null
+  },
+  {
+    "id": "bec2bae8-746f-46d1-bf9e-db6ca2e3c6e0",
+    "x": 781.68,
+    "y": 351.45,
+    "z": 5390,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "9092d014-5bb4-4146-91fd-961a5502065e",
+    "type": "card",
+    "cardType": "type-2bd0b5f6-4da1-43c0-93d0-f141b7ba2252",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7316,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "b3b00fdb-2356-47fe-9f65-0239298378e0",
+    "type": "card",
+    "cardType": "type-1008a848-0296-492f-9e6e-8ba8603e1378",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7266,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "56efcd9e-b667-44e8-ad4f-07cc759995d7",
+    "x": 1469.61,
+    "y": 839.06,
+    "z": 5429,
+    "type": "cardPile",
+    "width": 108,
+    "height": 148,
+    "linkedSeat": null,
+    "allowPlayerEditLabel": true,
+    "label": "Player 4",
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "718bd2ec-f634-4761-8433-a575ce01e0c0",
+    "x": -47.46,
+    "y": 776.92,
+    "z": 4489,
+    "type": "labelText",
+    "labelContent": "Treasures",
+    "textSize": 30,
+    "bold": true,
+    "textAlign": "center",
+    "width": 300,
+    "dragging": null
+  },
+  {
+    "id": "337e978f-e2cc-40a0-a2c8-039cf267994d",
+    "x": 782.34,
+    "y": 511.94,
+    "z": 5389,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "f415be64-203e-4a1d-9b93-e70547484094",
+    "x": 408.25,
+    "y": 23.72,
+    "z": 4533,
+    "type": "gamePiece",
+    "pieceType": "pin",
+    "color": "black",
+    "dragging": null
+  },
+  {
+    "id": "3dfe0e32-678d-4b26-bd53-b763ace7783d",
+    "type": "card",
+    "cardType": "type-54da39d7-4a02-4853-8351-78ba75e2f662",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7324,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "92cb8d77-f116-4eb5-beb6-969544973a31",
+    "type": "card",
+    "cardType": "type-0eb632da-fd04-44b7-a3b9-eba461147451",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "d62f11b7-58bc-451f-ae36-cb6040c0a14f",
+    "x": 1112.53,
+    "y": 193.01,
+    "z": 7335,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "type": "cardDeck",
+    "backTemplate": {
+      "includeBorder": false,
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 140,
+          "h": 140,
+          "valueType": "dynamic",
+          "value": "unflooded"
+        }
+      ]
+    },
+    "faceTemplate": {
+      "includeBorder": false,
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 140,
+          "h": 140,
+          "valueType": "dynamic",
+          "value": "flooded"
+        }
+      ]
+    },
+    "onRemoveFromHand": null,
+    "id": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "z": 3612,
+    "x": 43.73,
+    "enlarge": true,
+    "cardWidth": 140,
+    "snapAngles": [
+      0
+    ],
+    "parent": "38903182-99bd-4a64-9cd0-bbb6ed7ab116",
+    "cardHeight": 140,
+    "y": -74.63,
+    "cardTypes": {
+      "type-977a5f71-ec60-418e-a82a-bf00ccd3ea93": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-0-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-0-front.png"
+      },
+      "type-ee2adc21-5143-43ef-8ec4-3f15ace83886": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-1-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-1-front.png"
+      },
+      "type-ac6c46b0-319b-4ecd-a1bd-5eeb5309c25a": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-2-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-2-front.png"
+      },
+      "type-57a6e8d9-81cf-4ab3-a7f5-d25ad81a2461": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-3-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-3-front.png"
+      },
+      "type-5e1241bc-6e0d-4989-b299-caa4930ed1c8": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-4-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-4-front.png"
+      },
+      "type-681455a9-a8a7-436f-b480-4fee16962027": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-5-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-5-front.png"
+      },
+      "type-5e0c6878-7f8e-461f-819c-a756f07e21d8": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-6-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-6-front.png"
+      },
+      "type-84296986-81d0-463a-9c44-f5f401c929fd": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-7-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-7-front.png"
+      },
+      "type-872049f2-2d16-4788-8bad-263e7d4c25d4": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-8-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-8-front.png"
+      },
+      "type-d436e628-7650-4631-9980-309e96ddf312": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-9-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-9-front.png"
+      },
+      "type-c6789620-030b-43c4-9271-1d1243ac330f": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-10-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-10-front.png"
+      },
+      "type-5c8efae2-001f-4eca-9927-1d1a9869082a": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-11-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-11-front.png"
+      },
+      "type-e86935f0-db78-468e-acbc-a38dd82922c1": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-12-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-12-front.png"
+      },
+      "type-1cb90099-67fd-4421-8db8-3f291a9bf95a": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-13-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-13-front.png"
+      },
+      "type-0ab22278-1c99-4184-a05a-64fd10f48bf0": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-14-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-14-front.png"
+      },
+      "type-0eb632da-fd04-44b7-a3b9-eba461147451": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-15-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-15-front.png"
+      },
+      "type-60dc4a3f-3121-4583-a453-9c909b6d7111": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-16-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-16-front.png"
+      },
+      "type-b1a6aa9e-1632-4664-8009-336b115ace15": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-17-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-17-front.png"
+      },
+      "type-76cdd27c-a2bf-4fe4-b58b-3d1c9124f01b": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-18-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-18-front.png"
+      },
+      "type-b2142cf1-c0e4-4a5b-af9a-260c412f01f4": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-19-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-19-front.png"
+      },
+      "type-9e41ffad-bcdc-4fdf-8768-366223a4330b": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-20-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-20-front.png"
+      },
+      "type-522c9476-eef7-4fa1-94bd-52d5dc7a5104": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-21-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-21-front.png"
+      },
+      "type-e634a60c-0a7a-48ab-8860-fdfe77793a4a": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-22-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-22-front.png"
+      },
+      "type-781ce7f6-284c-4488-b592-363db0c7c952": {
+        "flooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-23-back.png",
+        "unflooded": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tiles/tile-23-front.png"
+      }
+    },
+    "confirmRecall": true,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "3489e3e5-fa87-49ad-95a1-e31aee0084ce",
+    "x": 615.72,
+    "y": 351.57,
+    "z": 5394,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "0e2be926-b505-472e-8da2-824b64c766b8",
+    "x": 781.99,
+    "y": 192.04,
+    "z": 5391,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "hasShuffleButton": true,
+    "linkedSeat": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "40c5bca5-6f04-4bd6-bf57-a3d69ef3b3ac",
+    "type": "card",
+    "cardType": "type-7d2039df-2f44-4028-857f-4b53a02a14c9",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7317,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "a145d7ca-0ecf-43b0-9b63-7bcfcddb78d5",
+    "type": "card",
+    "cardType": "type-51f3bd53-1d8d-4fb9-8ceb-1ee007b4b858",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7262,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "c8a4295d-ed6c-4564-9ca0-b68af911e678",
+    "x": 945.31,
+    "y": 513.88,
+    "z": 5385,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "c5031250-309d-4d10-aa22-aaa426d12449",
+    "type": "card",
+    "cardType": "type-fcb5476a-de13-4b79-b17a-3c1ca411feb1",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7288,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "935be798-fcd8-414b-ac8c-2028dd6e336e",
+    "type": "card",
+    "cardType": "type-ee2adc21-5143-43ef-8ec4-3f15ace83886",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "61f362e4-bcb3-49df-ab9f-d00d24bbc38b",
+    "x": 950.42,
+    "y": 359.54,
+    "z": 7338,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "a1079137-3bbe-4e08-9ba4-3a0a239d8fde",
+    "type": "card",
+    "cardType": "type-c88d0a51-55bf-4793-b689-451169922bc3",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7329,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "646805f3-73f3-4ed7-836c-80ebef7640a1",
+    "type": "card",
+    "cardType": "type-1008a848-0296-492f-9e6e-8ba8603e1378",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7321,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "61f362e4-bcb3-49df-ab9f-d00d24bbc38b",
+    "x": 946.42,
+    "y": 355.54,
+    "z": 5384,
+    "type": "cardPile",
+    "hasShuffleButton": true,
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "726ad1d1-fd5d-4751-bea9-32857d2abea2",
+    "type": "card",
+    "cardType": "type-9e41ffad-bcdc-4fdf-8768-366223a4330b",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "0c87038a-87a9-454d-a1af-1deb1398686a",
+    "x": 1275.55,
+    "y": 512.66,
+    "z": 7341,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "5f0feb9e-fbe9-46bd-af91-4a0d7378e845",
+    "type": "card",
+    "cardType": "type-1cb90099-67fd-4421-8db8-3f291a9bf95a",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "0e2be926-b505-472e-8da2-824b64c766b8",
+    "x": 785.99,
+    "y": 196.04,
+    "z": 7339,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "d7e1e256-30f3-4fd0-8517-3bd4be577bdb",
+    "type": "card",
+    "cardType": "type-9acff86f-1d93-49be-8124-4fd4e3476541",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7265,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "87510b23-25cf-4a2f-a5f3-58401330124a",
+    "x": 1271.35,
+    "y": 666.8,
+    "z": 4087,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null
+  },
+  {
+    "id": "4eabbe11-fbff-4204-989f-ad7c651e0051",
+    "type": "card",
+    "cardType": "type-832d316d-89de-4582-ba83-a514b9f7ec67",
+    "deck": "09c9383f-9c89-4dab-adc9-21f7a678d415",
+    "parent": "43fe2220-8836-4cd7-bbd8-afa5bc0629b6",
+    "x": 172.66,
+    "y": -102,
+    "z": 7275,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "c020f030-a596-4c1a-8645-552efd2a6ef0",
+    "type": "card",
+    "cardType": "type-15df4cac-6225-492b-9205-a094be99d830",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7277,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "ff698c61-0473-42db-9ffd-12ca57ab15de",
+    "type": "card",
+    "cardType": "type-d526b99b-7f0d-4a23-86c7-15526badd20f",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7282,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "cf9ace3f-a157-4aef-92a2-43387e981439",
+    "type": "card",
+    "cardType": "type-2bd0b5f6-4da1-43c0-93d0-f141b7ba2252",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7318,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "5bfecbe7-2499-444f-bfa3-cba6c94bd1df",
+    "type": "card",
+    "cardType": "type-463126df-8230-4810-884d-9c12e5a17586",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7313,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "0b6050e7-5cb1-44cd-822f-0a84534b9b1c",
+    "type": "card",
+    "cardType": "type-8e6d7946-135c-4dc7-a9c1-b0b3434ac9d8",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7299,
+    "owner": null,
+    "faceup": false,
+    "dragging": null
+  },
+  {
+    "height": 497.57894736842087,
+    "type": "board",
+    "boardImage": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/flood-meter.png",
+    "y": 194.37,
+    "id": "69a543ad-9aa9-452a-ae7d-b0bc6abee586",
+    "z": 5367,
+    "x": 21.59,
+    "width": 177.70676691729318,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "f25e97a2-79bd-44dc-b295-d878927cd8fc",
+    "type": "card",
+    "cardType": "type-9f21a936-40c1-480a-b6d8-29acdec2befd",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7272,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "83d26b9d-ea14-4d67-8ac0-6c68411e6d82",
+    "type": "card",
+    "cardType": "type-732c9e8d-4f70-41b8-9285-7803ba33975a",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7325,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "90b8a748-8c6d-4ce8-b6f3-e0c99a646d45",
+    "x": 34.95,
+    "y": 901.98,
+    "z": 4491,
+    "type": "gamePiece",
+    "pieceType": "classic",
+    "color": "red",
+    "dragging": null
+  },
+  {
+    "id": "039580f2-d510-4d9e-b738-ccf30555b258",
+    "x": 943.32,
+    "y": 832.89,
+    "z": 5387,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "1979f8c3-444e-435a-93f6-c4de56cbe873",
+    "type": "card",
+    "cardType": "type-5fe898b2-3699-46df-87a4-d2ba0e79908d",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7328,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "38903182-99bd-4a64-9cd0-bbb6ed7ab116",
+    "x": 12.73,
+    "y": -105.63,
+    "z": 4329,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "hasShuffleButton": false,
+    "hideStackTab": true,
+    "label": "",
+    "dragging": null
+  },
+  {
+    "id": "6b0dfae9-ae1a-4113-a521-1939fb44e332",
+    "x": 1267.98,
+    "y": 189.17,
+    "z": 5380,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "74cce9b6-ac15-47d7-a9f6-9948fd4315f9",
+    "x": 1268.71,
+    "y": 352.28,
+    "z": 4085,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null
+  },
+  {
+    "id": "fde44b8d-b58c-4539-a4db-8aa4827bd5c2",
+    "type": "card",
+    "cardType": "type-27c518c0-1d21-4cf8-a409-9b368360037b",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7306,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "342346e6-6dfe-411e-8842-ea17e44b7277",
+    "type": "card",
+    "cardType": "type-5ae21ff4-b1c9-4825-ba71-664b98f83ccd",
+    "deck": "09c9383f-9c89-4dab-adc9-21f7a678d415",
+    "parent": "43fe2220-8836-4cd7-bbd8-afa5bc0629b6",
+    "x": 172.66,
+    "y": -102,
+    "z": 7261,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "c38ac0a6-7853-4a4d-b92f-d777c70c2e9c",
+    "x": 0.16,
+    "y": 820.74,
+    "z": 4495,
+    "type": "gamePiece",
+    "pieceType": "classic",
+    "color": "blue",
+    "dragging": null
+  },
+  {
+    "id": "0c87038a-87a9-454d-a1af-1deb1398686a",
+    "x": 1271.55,
+    "y": 508.66,
+    "z": 4084,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null
+  },
+  {
+    "id": "c522f89b-6245-4d67-bc84-a75671cc6358",
+    "type": "card",
+    "cardType": "type-681455a9-a8a7-436f-b480-4fee16962027",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "b8a30011-a4af-45fa-b52a-c1865556268a",
+    "x": 947.78,
+    "y": 27.75,
+    "z": 7333,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "b897ca69-1ce6-45bf-938a-a336296e68f9",
+    "type": "card",
+    "cardType": "type-2bd0b5f6-4da1-43c0-93d0-f141b7ba2252",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7284,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "023f901a-5c40-4962-ab95-e58cc85f8ae6",
+    "type": "card",
+    "cardType": "type-8e104b98-d0df-4115-a84c-d284bdd946f6",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7326,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "fa5c9b02-6d1a-4969-99b8-1b3c439554a4",
+    "type": "card",
+    "cardType": "type-d436e628-7650-4631-9980-309e96ddf312",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "87510b23-25cf-4a2f-a5f3-58401330124a",
+    "x": 1275.35,
+    "y": 670.8,
+    "z": 7347,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "27c64987-9dbe-4fae-bd7a-444da9027327",
+    "type": "card",
+    "cardType": "type-5c8efae2-001f-4eca-9927-1d1a9869082a",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "3489e3e5-fa87-49ad-95a1-e31aee0084ce",
+    "x": 619.72,
+    "y": 355.57,
+    "z": 7344,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "5335585d-8979-4163-84b6-28fa48ab31fe",
+    "x": 247.73,
+    "y": 700.62,
+    "z": 5419,
+    "type": "cardPile",
+    "label": "Flood Discard",
+    "width": 108,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "aec1cf61-658e-4d9b-a4ce-f3d62ea62139",
+    "type": "card",
+    "cardType": "type-b1a6aa9e-1632-4664-8009-336b115ace15",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "c565a17c-2fcb-47e9-a625-91be7a202958",
+    "x": 1109.8,
+    "y": 674.09,
+    "z": 7351,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "ae3cbd34-87db-4a42-93e4-3d40493c726d",
+    "type": "card",
+    "cardType": "type-781ce7f6-284c-4488-b592-363db0c7c952",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "11248bc8-01a0-4d1c-aa00-2615ff4d5265",
+    "x": 1429.2,
+    "y": 352.57,
+    "z": 7342,
+    "owner": null,
+    "faceup": false,
+    "dragging": null
+  },
+  {
+    "id": "368269c8-b1b2-456a-9537-5737a78961c4",
+    "x": 782.06,
+    "y": 671.78,
+    "z": 5388,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "hand",
+    "type": "hand",
+    "x": 50,
+    "y": 820,
+    "z": 1,
+    "enabled": false,
+    "dragging": null
+  },
+  {
+    "id": "35a260b2-bf54-4ac5-b00c-8825ad981059",
+    "type": "card",
+    "cardType": "type-d75dfe5d-fd1d-4715-b0d0-eb2bfe0ac491",
+    "deck": "09c9383f-9c89-4dab-adc9-21f7a678d415",
+    "parent": "56efcd9e-b667-44e8-ad4f-07cc759995d7",
+    "x": 1473.61,
+    "y": 843.06,
+    "z": 7358,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "cd58b84f-7c92-4d44-8127-7ca1d2410072",
+    "type": "card",
+    "cardType": "type-08b25a28-7876-4722-977b-a01e577d4bf0",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7310,
+    "owner": null,
+    "faceup": false,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "d7335daa-3b9d-4e4e-91a0-dd9aa2a19cbf",
+    "type": "card",
+    "cardType": "type-57a6e8d9-81cf-4ab3-a7f5-d25ad81a2461",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "e01da7a7-edc0-47b4-b5ff-f43ca54ea286",
+    "x": 1109.88,
+    "y": 356.41,
+    "z": 7340,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "90146d80-a61c-4061-a6bd-9a69a74fb693",
+    "x": 332.66,
+    "y": 25.4,
+    "z": 4535,
+    "type": "gamePiece",
+    "pieceType": "pin",
+    "color": "blue",
+    "dragging": null
+  },
+  {
+    "id": "d9926394-7890-49e4-bef0-71735dc8d13f",
+    "type": "card",
+    "cardType": "type-a9d9c6d9-ab25-466c-a3b5-90cd959416ce",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7279,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "0e87b24f-4b80-44a6-b6b2-a93f12a49a35",
+    "type": "card",
+    "cardType": "type-8e6d7946-135c-4dc7-a9c1-b0b3434ac9d8",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7283,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "c36f46e5-efb2-44e1-a91f-a3cfda22bbca",
+    "x": 244.98,
+    "y": 310.46,
+    "z": 5417,
+    "type": "cardPile",
+    "label": "Treasure Discard",
+    "width": 108,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "cbbcb184-d5e3-46b3-8258-a52a64061905",
+    "type": "card",
+    "cardType": "type-4fee238f-c8ce-43b3-87e5-e2b3c5e74b32",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7323,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "ec8123d1-ae33-4fff-8a34-19ed951dd067",
+    "type": "card",
+    "cardType": "type-732c9e8d-4f70-41b8-9285-7803ba33975a",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7249,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "7065f4cd-677c-43cd-bada-efece95a41de",
+    "type": "card",
+    "cardType": "type-2bd0b5f6-4da1-43c0-93d0-f141b7ba2252",
+    "deck": "f6c29379-bf9b-4191-8d47-826fe816a471",
+    "parent": "913ceb90-3d14-41eb-848a-8d2f0e7486ad",
+    "x": 249.44,
+    "y": 123.25,
+    "z": 7264,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "09b648d3-57e8-4483-89a0-fa0bcf551fda",
+    "type": "card",
+    "cardType": "type-b2142cf1-c0e4-4a5b-af9a-260c412f01f4",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "039580f2-d510-4d9e-b738-ccf30555b258",
+    "x": 947.32,
+    "y": 836.89,
+    "z": 7343,
+    "faceup": false,
+    "owner": null,
+    "dragging": null
+  },
+  {
+    "id": "a1b5437f-b313-4a14-8685-5e460ef88e01",
+    "type": "card",
+    "cardType": "type-2c58a09d-56ff-486d-8631-ccaba338c8d6",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7252,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "type": "cardDeck",
+    "backTemplate": {
+      "includeBorder": false,
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 140,
+          "valueType": "static",
+          "value": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-front.png"
+        }
+      ]
+    },
+    "faceTemplate": {
+      "includeBorder": false,
+      "includeRadius": true,
+      "objects": [
+        {
+          "type": "image",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 140,
+          "valueType": "dynamic",
+          "value": "tile-card"
+        }
+      ]
+    },
+    "onRemoveFromHand": null,
+    "id": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "z": 5413,
+    "x": 256.7,
+    "cardOverlapH": 0,
+    "enlarge": true,
+    "snapAngles": [
+      0
+    ],
+    "cardWidth": 100,
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "cardHeight": 140,
+    "y": 533.22,
+    "cardTypes": {
+      "type-9f21a936-40c1-480a-b6d8-29acdec2befd": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-0-back.png"
+      },
+      "type-263a5a22-f9de-48fa-bc24-1a2c55b0bc74": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-1-back.png"
+      },
+      "type-042c3db0-3c10-474e-aa62-8ca70d513a2a": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-2-back.png"
+      },
+      "type-102df4d7-c7af-46fd-ae35-3bee3db972e5": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-3-back.png"
+      },
+      "type-b5823ed8-90e5-4fc0-b432-7101e35cc807": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-4-back.png"
+      },
+      "type-a9d9c6d9-ab25-466c-a3b5-90cd959416ce": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-5-back.png"
+      },
+      "type-54da39d7-4a02-4853-8351-78ba75e2f662": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-6-back.png"
+      },
+      "type-51f3bd53-1d8d-4fb9-8ceb-1ee007b4b858": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-7-back.png"
+      },
+      "type-2c58a09d-56ff-486d-8631-ccaba338c8d6": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-8-back.png"
+      },
+      "type-5c868fda-d360-439a-8401-35af43d04721": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-9-back.png"
+      },
+      "type-061ec5e9-5ef5-4a9d-b1d9-9e85cbb0e556": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-10-back.png"
+      },
+      "type-fcb5476a-de13-4b79-b17a-3c1ca411feb1": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-11-back.png"
+      },
+      "type-15df4cac-6225-492b-9205-a094be99d830": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-12-back.png"
+      },
+      "type-3291ef51-26a3-4eff-a68c-3bf8c904350d": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-13-back.png"
+      },
+      "type-dfeabe97-0e11-4a43-8d49-a747c277f1b8": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-14-back.png"
+      },
+      "type-7d2039df-2f44-4028-857f-4b53a02a14c9": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-15-back.png"
+      },
+      "type-27c518c0-1d21-4cf8-a409-9b368360037b": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-16-back.png"
+      },
+      "type-4fee238f-c8ce-43b3-87e5-e2b3c5e74b32": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-17-back.png"
+      },
+      "type-463126df-8230-4810-884d-9c12e5a17586": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-18-back.png"
+      },
+      "type-8e104b98-d0df-4115-a84c-d284bdd946f6": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-19-back.png"
+      },
+      "type-c88d0a51-55bf-4793-b689-451169922bc3": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-20-back.png"
+      },
+      "type-7914456d-b63e-4b26-9bac-65c442c0c48e": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-21-back.png"
+      },
+      "type-08b25a28-7876-4722-977b-a01e577d4bf0": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-22-back.png"
+      },
+      "type-75b4052e-bc6e-4a1e-9a0d-85fb61f57eb7": {
+        "tile-card": "https://raw.githack.com/vergenzt/forbidden-island-pcio/master/assets/tile-cards/tile-card-23-back.png"
+      }
+    },
+    "confirmRecall": true,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "b8a30011-a4af-45fa-b52a-c1865556268a",
+    "x": 943.78,
+    "y": 23.75,
+    "z": 5382,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "ab730f0c-cf77-4d62-806d-64863eb64ad5",
+    "x": 616.19,
+    "y": 515.54,
+    "z": 5395,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "5d8b9f2a-0ec5-455f-bac5-4617ece8235f",
+    "x": 943.95,
+    "y": 190.47,
+    "z": 5383,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "6ffdb425-1e9c-4401-94f7-eeb3218c1a1a",
+    "x": 1106.15,
+    "y": 511.71,
+    "z": 5377,
+    "type": "cardPile",
+    "width": 148,
+    "height": 148,
+    "dragging": null,
+    "draggingType": null
+  },
+  {
+    "id": "ef64b25b-766e-4b52-bdce-39757be1596b",
+    "type": "card",
+    "cardType": "type-5e1241bc-6e0d-4989-b299-caa4930ed1c8",
+    "deck": "bbeb3f14-67c8-4697-a3b9-230553abe3e3",
+    "parent": "ab730f0c-cf77-4d62-806d-64863eb64ad5",
+    "x": 620.19,
+    "y": 519.54,
+    "z": 7332,
+    "faceup": false,
+    "owner": null,
+    "r": 0,
+    "dragging": null
+  },
+  {
+    "id": "8bfd2e4e-8d13-4653-9d0c-35e409adffaa",
+    "type": "card",
+    "cardType": "type-75b4052e-bc6e-4a1e-9a0d-85fb61f57eb7",
+    "deck": "a0c45160-3bb5-4beb-b1dc-e8063d280d03",
+    "parent": "45cbe894-f997-462f-b14e-71c80f2cb062",
+    "x": 249.7,
+    "y": 506.22,
+    "z": 7269,
+    "faceup": false,
+    "owner": null,
+    "dragging": null,
+    "draggingType": null
+  }
+]
